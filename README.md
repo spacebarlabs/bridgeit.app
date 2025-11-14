@@ -1,0 +1,2 @@
+# bridgeit.app
+Redirect
